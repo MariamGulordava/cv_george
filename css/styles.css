@@ -1,0 +1,59 @@
+
+h1{
+  color:rgb(70, 70, 0);
+} 
+img.gio{
+  border-style:groove;
+}
+hr.a{
+  border-style: none;
+  border-top-style:dashed;
+  border-color: rgb(48, 105, 48);
+  border-width: 5px;
+  width: 20%; 
+}
+table, td, th {
+  margin-top: 10px;
+  border-color: rgb(0, 0, 0);
+  color: rgb(70, 70, 0);
+}
+th {
+  line-height: 20px;
+  background-color: #76BA99;
+  color:  rgb(70, 70, 0);
+}
+td {
+  line-height: 20px;
+  background-color: #89cfae;
+}
+td.fr:hover {
+  background-color: #558b72;
+}
+td.sc:hover {
+  background-color: #c298f8;
+}
+td.th:hover {
+  background-color: #e8f572;
+}
+table {
+  border-collapse: collapse;
+  width: 27%;
+}
+p.dev, p.annual{
+  font-size: 19px;
+}
+hr.vl{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: rgb(48, 105, 48);
+  border-width: 30px;
+  width: 20%; 
+  margin-bottom: 100px;
+  margin-left: 363px;
+  margin-top: 100px;
+}
+
+div.container{
+  display: flex;
+  margin-right: 310px;
+}
